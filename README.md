@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj Bhat</h1>
 <h3 align="center">A passionate Full-Stack/MERN (MongoDB, Express.js, React.js, Node.js)</h3>
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" style="max-width: 100%; width:400px display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-raj-bhat91&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-raj-bhat91" /> </p>
 
