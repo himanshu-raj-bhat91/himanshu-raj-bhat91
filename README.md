@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-raj-bhat91&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-raj-bhat91" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack/MERN (MongoDB, Express.js, React.js, Node.js)**
+- 🌱 Currently working on **Full-Stack/MERN (MongoDB, Express.js, React.js, Node.js)**
 
 - 💬 Ask me about **Full-Stack/MERN (MongoDB, Express.js, React.js, Node.js), JavaScript, MySQL, HTML, CSS, BootStrap**
 
